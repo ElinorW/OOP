@@ -12,7 +12,7 @@
 
  Driver *dere;
 
- SteeringWheel s_wheel;
+ SteeringWheel s_wheel; //composition is demonstrated here
 
  std::string car_type;
 
