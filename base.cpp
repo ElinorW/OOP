@@ -62,4 +62,3 @@ public:
     int publ6;
 };
 
-class derievd6: pro
