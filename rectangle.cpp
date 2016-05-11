@@ -6,4 +6,4 @@ std::string Rectangle::getName(){
 }
 int Rectangle::area(){
     return height *width; 
-};
+}
